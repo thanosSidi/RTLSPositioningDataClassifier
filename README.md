@@ -16,9 +16,10 @@ Make sure you have Python 3.7+ installed. You can install required dependencies 
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Execution
 
 Go to Parent folder and run the following command
 ```bash
 python -m RTLSPositioningDataClassifier.MainWindow
+```
